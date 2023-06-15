@@ -6,7 +6,7 @@
         <q-toolbar-title>
           <div class="header">
             <div class="column">
-              First Column
+              First Columnssssss
             </div>
             <div class="column" style="flex: 2;">
               <q-input outlined dense placeholder="Search">
