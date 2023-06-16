@@ -12,7 +12,7 @@
             </div>
             <div class="text-h6 text-black" style="text-align: center">
                 Explore a world with Knowledge and Advance <br />
-                Your Career from Anywhere, Anytime
+                Your Career from Anywhere, Anytime.
             </div>
             <div class="row">
                 <div class="col" style="margin-top: 200px">
